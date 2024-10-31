@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Register here! v0.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-30 12:25:55+0000\n"
+"Last-Translator: idiot <pierre@r-r.dk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: register-here-admin.php:24
+#: register-here-admin.php:88
+#@ register-here
+msgid "Indstillinger"
+msgstr "Settings"
+
+#: register-here-admin.php:98
+#@ register-here
+msgid "Titel"
+msgstr "Title"
+
+#: register-here-admin.php:101
+#@ register-here
+msgid "Indtast arrangementets titel, hvis der er anderledes end sidens titel. Ellers anvendes sidens titel."
+msgstr "Enter title of event, if different than pagetitle. Leave empty to use pagetitle."
+
+#: register-here-admin.php:160
+#@ register-here
+msgid "Tilmelding ekstra felter"
+msgstr "Registration extra fields"
+
+#: register-here-admin.php:161
+#@ register-here
+msgid "De ekstra felter tilf&oslash;jes til tilmeldingsformularen, og desuden til deltagerlisterne."
+msgstr "The extra fields will be added to the registrationform and to participant-lists."
+
+#: register-here-admin.php:182
+#@ register-here
+msgid "Aktivt"
+msgstr "Active"
+
+#: register-here-admin.php:200
+#@ register-here
+msgid "Betalingsmuligheder"
+msgstr "Paymentoptions"
+
+#: register-here-admin.php:50
+#: register-here-admin.php:326
+#@ register-here
+msgid "Hj&aelig;lp"
+msgstr "Help"
+
+#. translators: plugin header field 'Name'
+#: register-here.php:0
+#@ register-here
+msgid "Register here!"
+msgstr "Register here!"
+
+#. translators: plugin header field 'Description'
+#: register-here.php:0
+#@ register-here
+msgid "Registration for events."
+msgstr "Registration for events."
+
+#. translators: plugin header field 'Author'
+#: register-here.php:0
+#@ register-here
+msgid "Pierre Husted Sigvardsen"
+msgstr "Pierre Husted Sigvardsen"
+
+#. translators: plugin header field 'AuthorURI'
+#: register-here.php:0
+#@ register-here
+msgid "http://www.pi-hus.dk"
+msgstr "http://www.pi-hus.dk"
+
+#: register-here.php:258
+#@ register-here
+msgid "Navn"
+msgstr "Name"
+
+#: register-here.php:259
+#@ register-here
+msgid "Adresse"
+msgstr "Address"
+
+#: register-here.php:260
+#@ register-here
+msgid "Postnummer"
+msgstr "Zip-code"
+
+#: register-here.php:261
+#@ register-here
+msgid "Bynavn"
+msgstr "Town"
+
+#: register-here.php:262
+#@ register-here
+msgid "Land"
+msgstr "Country"
+
+#: register-here.php:263
+#@ register-here
+msgid "Mobiltlf"
+msgstr "Cellphone"
+
+#: register-here.php:264
+#@ register-here
+msgid "Email"
+msgstr "Email"
+
+#: register-here-admin.php:306
+#: register-here.php:274
+#@ register-here
+msgid "Kommentarer"
+msgstr "Comments"
+
+#: register-here-admin.php:103
+#@ register-here
+msgid "Side med tilmelding"
+msgstr "Page with registrationform"
+
+#: register-here-admin.php:108
+#@ register-here
+msgid "Side med deltagerliste"
+msgstr "Page with list of participants"
+
+#: register-here-admin.php:331
+#: register-here-admin.php:337
+#@ register-here
+msgid "indstillinger"
+msgstr "settings"
+
+#: register-here-admin.php:332
+#@ register-here
+msgid "- da denne indstilling bruges til henvisninger."
+msgstr "- since this setting is used for links."
+
+#: register-here-admin.php:338
+#@ register-here
+msgid "- da denne indstilling ogs&aring; bruges til henvisninger."
+msgstr "- since this setting also is used for links."
+
+#: register-here-admin.php:341
+#@ register-here
+msgid "Det er med tiden planen at udvide"
+msgstr "We will be expanding"
+
+#: register-here-admin.php:341
+#@ register-here
+msgid "med nye funktioner."
+msgstr "with new functions and options."
+
+#: register-here-admin.php:342
+#@ register-here
+msgid "S&aring; kig j&aelig;vnligt ind efter opdateringer."
+msgstr "So remember to check for updates regularly."
+
+#: register-here.php:96
+#: register-here.php:128
+#@ register-here
+msgid "Du kan selv tilmelde dig"
+msgstr "Your can register"
+
+#: register-here.php:96
+#: register-here.php:128
+#: register-here.php:214
+#@ register-here
+msgid "her"
+msgstr "here"
+
+#: register-here.php:214
+#@ register-here
+msgid "Du kan se deltagerlisten"
+msgstr "The list of participants is"
+
+#: register-here-admin.php:328
+#@ register-here
+msgid "Du inds&aelig;tter tilmeldingsformularen ved at inds&aelig;tte"
+msgstr "You add the registrationform by adding"
+
+#: register-here-admin.php:329
+#@ register-here
+msgid "Det er desuden en god id&eacute; at v&aelig;lge siden i"
+msgstr "It is also a good idea to select the page in"
+
+#: register-here-admin.php:335
+#@ register-here
+msgid "Som med tilmeldingsformularen, er det ogs&aring; her en god id&eacute; at v&aelig;lge siden i"
+msgstr "As with the registrationform, it's also a good idea to select the page in"
+
+#: register-here-admin.php:328
+#@ register-here
+msgid "i en side."
+msgstr "in a page."
+
+#: register-here-admin.php:334
+#@ register-here
+msgid " i en side."
+msgstr "in a page."
+
+#: register-here-admin.php:29
+#@ register-here
+msgid "Tilmelding felter"
+msgstr "Registration fields"
+
+#: register-here-admin.php:43
+#: register-here-admin.php:269
+#@ register-here
+msgid "Tilbagemeldinger"
+msgstr "Feedback"
+
+#: register-here-admin.php:84
+#: register-here-admin.php:231
+#@ register-here
+msgid "Indstillinger opdateret"
+msgstr "Settings updated"
+
+#: register-here-admin.php:106
+#: register-here-admin.php:111
+#@ register-here
+msgid "Bruges i forbindelse med redirects, links, henvisninger og lign."
+msgstr "Used when doing redirects, links and the like."
+
+#: register-here-admin.php:156
+#@ register-here
+msgid "Ekstra felter opdateret"
+msgstr "Extra fields updated"
+
+#: register-here-admin.php:270
+#@ register-here
+msgid "For at kunne danne statistik over brugen af"
+msgstr "In order to create statistics of the usage of"
+
+#: register-here-admin.php:270
+#@ register-here
+msgid "vil vi meget gerne indsamle lidt informationer om plug-in'ets installation og brug."
+msgstr "we would very much like to collect some information about the installation and use of the plug-in."
+
+#: register-here-admin.php:283
+#@ register-here
+msgid "Tillad at der indsamles info om installationen"
+msgstr "Allow collection of data about the installation"
+
+#: register-here-admin.php:289
+#: register-here-admin.php:300
+#@ register-here
+msgid "Tillad indsamling"
+msgstr "Allow data-collection"
+
+#: register-here-admin.php:290
+#: register-here-admin.php:301
+#@ register-here
+msgid "Ingen indsamling"
+msgstr "No data-collection"
+
+#: register-here-admin.php:307
+#@ register-here
+msgid "Kommentarerne sendes til udvikleren n&aring;r &aelig;ndringerne i disse indstillinger gemmes."
+msgstr "Comments will be sent to the developer when changes are saved."
+
+#. translators: plugin header field 'PluginURI'
+#: register-here.php:0
+#@ register-here
+msgid "http://wordpress.org/plugins/register-here/"
+msgstr "http://wordpress.org/plugins/register-here/"
+
+#: register-here-admin.php:292
+#@ register-here
+msgid "Der indsamles f&oslash;lgende informationer: Tidspunkt for tilladelse, Serverens IP-nummer, Server ID, Register Here! version, Wordpress version."
+msgstr "The following data is collected: Time of permission, Server IP, Server ID, Register Here! version, Wordpress version."
+
+#: register-here-admin.php:294
+#@ register-here
+msgid "Tillad at der indsamles info om tilmeldingerne"
+msgstr "Allow data collection on registrations."
+
+#: register-here-admin.php:302
+#@ register-here
+msgid "Der indsamles f&oslash;lgende informationer: Tidspunkt for tilmelding, Serverens IP-nummer, Den tilmeldtes IP-nummer, Register Here! version, Wordpress version."
+msgstr "The following data is collected: Time of registration, Server IP, IP of the registered, Register Here! version, Wordpress version."
+
+#: register-here-admin.php:303
+#@ register-here
+msgid "Kr&aelig;ver at der er tilladt indsamling af info om installationen, da det k&aelig;der sig til Server ID (som kommer derfra)."
+msgstr "Requires that data collection is allowed, since this is linked to Server ID (from the data collection)."
+
+#. translators: plugin header field 'Version'
+#: register-here.php:0
+#@ register-here
+msgid "0.2.4"
+msgstr ""
+
+#: register-here.php:179
+#@ register-here
+msgid "Mange tak"
+msgstr "Thank you very much"
+
+#: register-here.php:179
+#@ register-here
+msgid "Du er nu tilmeldt til"
+msgstr "You have now registred for"
+
+#: register-here-admin.php:174
+#@ register-here
+msgid "Felt nr"
+msgstr "Field no"
+
+#: register-here-admin.php:174
+#@ register-here
+msgid "titel"
+msgstr "title"
+
+#: register-here.php:95
+#@ register-here
+msgid "Tilmeldte deltagere til"
+msgstr "Registered participants for"
+
+#: register-here-admin.php:334
+#@ register-here
+msgid "Du inds&aelig;tter deltagerlisten ved at inds&aelig;tte"
+msgstr "You add the list of participants by adding"
+
